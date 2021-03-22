@@ -1,0 +1,9 @@
+Breakfast 10688 sec
+Toileting 8434 sec
+Grooming 9642 sec
+Sleeping 471811 sec
+Leaving 99884 sec
+Spare_Time/TV 512935 sec
+Showering 5649 sec
+Snack 361 sec
+Lunch 18811 sec
